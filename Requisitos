@@ -1,0 +1,14 @@
+Lista de requisitos:
+
+O sistema deverá ser capaz de realizar comunicação com WebServices para preenchimento automático de endereços;
+O sistema deverá disponibilizar serviços de consulta de notas;
+O sistema deverá se comunicar com a rede Social (Facebook);
+
+
+Requistos não-funcionais:
+
+O sistema poderá ser executado de maneira manual (através de um arquivo executável) ou poderá estar hospedado no servidor de aplicação do windows (IIS);
+O sistema deverá comunicar com outras aplicações através do protocolo http ou TCP;
+O sistema deverá receber informações através de "Encodes" no formato XML;
+O sistema deverá contemplar o modelo de programação JSON;
+A funcionalidade de consulta de notas deverá ter um tempo de resposta de no máximo 15 segundos por requisição;
