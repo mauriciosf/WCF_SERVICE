@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="PUCMINAS.SistemaAcademico.Wcf.Endereco" CodeBehind="EnderecoService.svc.cs" %>

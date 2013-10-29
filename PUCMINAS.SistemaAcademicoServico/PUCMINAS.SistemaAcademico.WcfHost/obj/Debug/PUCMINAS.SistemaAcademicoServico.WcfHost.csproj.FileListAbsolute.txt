@@ -1,0 +1,7 @@
+D:\Programação\Estudos\POS ENGENHARIA DE SOFTWARE\FAS2\Project\PUCMINAS.SistemaAcademicoServico\PUCMINAS.SistemaAcademico.WcfHost\bin\PUCMINAS.SistemaAcademico.WcfHost.dll
+D:\Programação\Estudos\POS ENGENHARIA DE SOFTWARE\FAS2\Project\PUCMINAS.SistemaAcademicoServico\PUCMINAS.SistemaAcademico.WcfHost\bin\PUCMINAS.SistemaAcademico.WcfHost.pdb
+D:\Programação\Estudos\POS ENGENHARIA DE SOFTWARE\FAS2\Project\PUCMINAS.SistemaAcademicoServico\PUCMINAS.SistemaAcademico.WcfHost\bin\PUCMINAS.SistemaAcademico.Wcf.dll
+D:\Programação\Estudos\POS ENGENHARIA DE SOFTWARE\FAS2\Project\PUCMINAS.SistemaAcademicoServico\PUCMINAS.SistemaAcademico.WcfHost\bin\PUCMINAS.SistemaAcademico.Wcf.pdb
+D:\Programação\Estudos\POS ENGENHARIA DE SOFTWARE\FAS2\Project\PUCMINAS.SistemaAcademicoServico\PUCMINAS.SistemaAcademico.WcfHost\obj\Debug\PUCMINAS.SistemaAcademicoServico.WcfHost.csprojResolveAssemblyReference.cache
+D:\Programação\Estudos\POS ENGENHARIA DE SOFTWARE\FAS2\Project\PUCMINAS.SistemaAcademicoServico\PUCMINAS.SistemaAcademico.WcfHost\obj\Debug\PUCMINAS.SistemaAcademico.WcfHost.dll
+D:\Programação\Estudos\POS ENGENHARIA DE SOFTWARE\FAS2\Project\PUCMINAS.SistemaAcademicoServico\PUCMINAS.SistemaAcademico.WcfHost\obj\Debug\PUCMINAS.SistemaAcademico.WcfHost.pdb
